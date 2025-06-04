@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**MohamedAbubakkarM/MohamedAbubakkarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science undergraduate currently preparing for **placements** with a strong focus on **Data Structures & Algorithms**. I'm passionate about building real-world solutions and staying updated with emerging technologies like **AI**.
 
-Here are some ideas to get you started:
+- 📚 Currently learning: DSA, System Design, Java Backend
+- 💡 Interests: Artificial Intelligence, Startup Innovation
+- 🎯 Goal: Crack placements with confidence and build impactful software in the AI domain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technical Skills
+  [![Languages & Libraries:](https://skillicons.dev/icons?i=java,python,cpp,fastapi,postgres&theme=dark)](https://skillicons.dev)
+  [![Web Technologies:](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🛠️ Tools & Platforms
+[![Web Technologies:](https://skillicons.dev/icons?i=anaconda,git,github,idea,linux,notion,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/m-mohamed-abubakkar)  
+- 📝 [Medium](https://medium.com/@mmdabubakkar98)
+- 📧 Email: mohamedabubakkarmdm@gmail.com
+
+---
+
+## 📊 Top Languages & GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbubakkarM&layout=compact&theme=gotham&langs_count=8)     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbubakkarM&show_icons=true&theme=gotham)
+
+---
