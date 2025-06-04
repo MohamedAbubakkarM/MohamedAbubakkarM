@@ -21,7 +21,7 @@ I'm a second-year Computer Science undergraduate currently preparing for **place
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/m-mohamed-abubakkar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-mohamed-abubakkar)  
 - 📝 [Medium](https://medium.com/@mmdabubakkar98)
 - 📧 Email: mohamedabubakkarmdm@gmail.com
 
