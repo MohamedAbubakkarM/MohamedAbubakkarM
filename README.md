@@ -9,7 +9,7 @@ I'm a second-year Computer Science undergraduate currently preparing for **place
 ---
 
 ## 🧠 Technical Skills
-  [![Languages & Libraries:](https://skillicons.dev/icons?i=java,python,cpp,fastapi,maven,postgres,spring&theme=dark)](https://skillicons.dev)
+  [![Languages & Libraries:](https://skillicons.dev/icons?i=java,python,fastapi,maven,postgres,spring&theme=dark)](https://skillicons.dev)
   [![Web Technologies:](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
 ---
