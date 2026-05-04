@@ -29,6 +29,6 @@ I'm a pre-final year Computer Science undergraduate currently preparing for **pl
 ## 📊 Top Languages & GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbubakkarM&layout=compact&theme=gotham&langs_count=10)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbubakkarM&show_icons=true&theme=tokyonight)
+
 
 ---
